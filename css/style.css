@@ -280,6 +280,7 @@ h6 {
 }
 
 .about__text {
+	max-width: 400px;
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
